@@ -1,3 +1,8 @@
+# vscode devcontainer
+.gitconfig
+.vscode-server/
+.ssh
+
 # Prerequisites
 *.d
 
