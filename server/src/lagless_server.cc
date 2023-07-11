@@ -2,16 +2,8 @@
 // Copyright (c) 2023 - 2033 LaglessDesk. All rights reserved.
 ////////////////////////////////////////////////////////////////
 
-#ifndef SRC_LAGLESS_DESK_H_
-#define SRC_LAGLESS_DESK_H_
+#include "server/src/lagless_server.h"
 
-namespace ld::lagless {
-
+int main(int argc, const char* argv[]) {
+    return 0;
 }
-
-
-
-
-
-
-#endif  // SRC_LAGLESS_DESK_H_
