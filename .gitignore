@@ -1,3 +1,11 @@
+# bulid
+Bin/
+
+# VS
+.vs/
+*.user
+*.filters
+
 # vscode devcontainer
 .gitconfig
 .vscode/
